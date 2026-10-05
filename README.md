@@ -1,4 +1,8 @@
-# ConcreteSMP 2.1.0 Mod List
+Welcome to the official GitHub page for ConcreteSMP!
+
+I won't be posting the changelogs or anything here, but I will however update this README file to ensure the mod list and the accompanying links stay up-to-date!
+
+ConcreteSMP 2.1.0 Mod List
 
 Minecraft 26.1.2 on NeoForge. Click a mod name to open its CurseForge page.
 
